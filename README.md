@@ -17,11 +17,17 @@ O computador escolhe um número **aleatório entre 1 e 100**, e o jogador deve a
 ## 📌 Exemplo de Execução
 
 🎯 Tente adivinhar o número entre 1 e 100!
+
 Digite seu palpite: 50
+
 🔼 O número secreto é maior!
+
 Digite seu palpite: 75
+
 🔽 O número secreto é menor!
+
 Digite seu palpite: 63
+
 ✅ Parabéns! Você acertou em 3 tentativas.
 
 ---
